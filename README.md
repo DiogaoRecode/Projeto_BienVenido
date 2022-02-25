@@ -7,11 +7,11 @@ Construção da base de dados usando o padrão  SQL relacional que atendendo as 
  
 *Back-end  
 
-Código foi usando os padrões de projeto MVC e Persistência de dados com os frameworks Spring para a organização da aplicação. 
+Código foi usado os padrões de projeto MVC e Persistência de dados com os frameworks Spring para a organização da aplicação. 
 
   
 
 *Front-end 
 
 
-As views da aplicação serão baseadas na biblioteca React, usando todo o poder dos compenentes, Code Splitting, states, router).
+As views da aplicação foram baseadas na biblioteca React, usando todo o poder dos compenentes, Code Splitting, states, router).
